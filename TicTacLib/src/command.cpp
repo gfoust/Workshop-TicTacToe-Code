@@ -5,6 +5,7 @@
 
 namespace tic {
 
+  // Something witty and insightful
 
 const std::string cellIds = "abcdefghi";
 

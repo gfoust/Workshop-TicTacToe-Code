@@ -4,7 +4,7 @@
 #include <cctype>
 
 namespace tic {
-
+  // This is stupid
   // Something witty and insightful
 
 const std::string cellIds = "abcdefghi";
